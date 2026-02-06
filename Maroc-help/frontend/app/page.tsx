@@ -16,7 +16,7 @@ export default function Home() {
     <div className="min-h-screen bg-white font-sans">
       {/* Header Simple */}
       <header className="fixed top-0 w-full bg-white/98 backdrop-blur-sm border-b border-gray-100 z-50">
-  <div className="max-w-10l mx-auto px-17 py-2">
+  <div className="max-w-6xl mx-auto px-6 py-2">
     <div className="flex items-center justify-between">
       {/* Logo */}
       <Link href="/" className="flex items-center group">
@@ -204,7 +204,7 @@ export default function Home() {
       {/* Titre avec ligne décorative */}
       <div className="inline-block relative mb-4">
         <h4 className="text-2xl font-bold mb-2">L'arrivée</h4>
-        <div className="h-0.5 bg-linear-to-l from-emerald-500 via-emerald-900 to-transparent"></div>
+        <div className="h-0.5 bg-gradient-to-l from-emerald-500 via-emerald-900 to-transparent"></div>
       </div>
       
       <p className="text-gray-400 leading-relaxed">
@@ -262,7 +262,7 @@ export default function Home() {
       {/* Titre avec ligne décorative */}
       <div className="inline-block relative mb-4">
         <h4 className="text-2xl font-bold mb-2">L'accompagnement</h4>
-        <div className="h-0.5 bg-linear-to-l from-emerald-500 via-emerald-900 to-transparent"></div>
+        <div className="h-0.5 bg-gradient-to-l from-emerald-500 via-emerald-900 to-transparent"></div>
       </div>
       
       <p className="text-gray-400 leading-relaxed">
@@ -321,7 +321,7 @@ export default function Home() {
       {/* Titre avec ligne décorative */}
       <div className="inline-block relative mb-4">
         <h4 className="text-2xl font-bold mb-2">La réussite</h4>
-        <div className="h-0.5 bg-linear-to-l from-emerald-500 via-emerald-900 to-transparent"></div>
+        <div className="h-0.5 bg-gradient-to-l from-emerald-500 via-emerald-900 to-transparent"></div>
       </div>
       
       <p className="text-gray-400 leading-relaxed">
