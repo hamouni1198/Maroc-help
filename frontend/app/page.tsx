@@ -32,7 +32,7 @@ export default function Home() {
         <Link href="/services" className="text-gray-600 hover:text-gray-900 font-medium transition-colors">
           Services
         </Link>
-        <Link href="/login" className="text-gray-600 hover:text-gray-900 font-medium transition-colors">
+        <Link href="/login" className="text-gray-100 hover:text-gray-900 font-medium transition-colors">
           Connexion
         </Link>
         <Link
